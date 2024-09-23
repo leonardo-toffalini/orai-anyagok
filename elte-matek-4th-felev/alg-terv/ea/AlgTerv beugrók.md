@@ -1,0 +1,3 @@
+- [[AlgTerv beugrók Definíciók]]
+- [[AlgTerv beugrók Tételek]]
+- [[AlgTerv beugrók Algoritmusok]]
