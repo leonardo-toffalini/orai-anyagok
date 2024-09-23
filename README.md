@@ -1,1 +1,1 @@
-# Elte Matematika (Bsc.) órai jegyzetek
+# ELTE Matematika (Bsc.) órai jegyzetek
