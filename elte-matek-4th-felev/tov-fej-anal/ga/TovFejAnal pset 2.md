@@ -92,3 +92,5 @@ Legyen $\mathcal{L}([-2,2], \mathbb{R})$ a $[-2,2]$-n értelmezett lineáris, va
 ![[tov-fej-anal-p-2-4-a]]
 ![[tov-fej-anal-p-2-4-b]]
 ![[tov-fej-anal-p-2-4-c]]
+
+related: [[TovFejAnal]]

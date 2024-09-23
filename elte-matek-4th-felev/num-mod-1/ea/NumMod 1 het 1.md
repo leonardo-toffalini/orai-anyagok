@@ -116,3 +116,5 @@ Mi van, ha $a,\tilde{a} \in X$ (pl.: $X = \mathbb{R}^{n}$ vagy valami mas halmaz
 kellene ertelmezi a kovetkezoket:
 - elemek kulombese -> tfh $X$ vektorter
 - analog az abszolut fv-re
+
+related: [[NumMod 1]]

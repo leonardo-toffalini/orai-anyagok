@@ -205,3 +205,5 @@ Egy $\mu$ merteket $\sigma$ vegesnek nevezunk, ha minden $P \in \mathcal{P}$ ese
 A fenti elmeletben kapott $\mu : \mathcal{M} \to \overline{\mathbb{R}}$  mertek az $\sigma$ veges es teljes.
 
 *Kovetkezmeny:* A Lebesgue-mertek is $\sigma$ veges es teljes.
+
+related: [[TovFejAnal]]

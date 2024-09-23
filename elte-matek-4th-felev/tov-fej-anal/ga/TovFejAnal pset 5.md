@@ -60,3 +60,4 @@ Legyen $X$ egy olyan $[0,1] \rightarrow \mathbb{R}$ függvényekből álló vekt
 (b) Legyen $X:=\mathscr{C}^1([0,1] ; \mathbb{R})$, ellátva az $\|f\|_{C^1}:=\max _I\left|f^{\prime}\right|+\max _I|f|$ normával, és legyen $Y:=\mathscr{C}([0,1] ; \mathbb{R})$ ellátva a maximum-normával. Mutassuk meg, hogy az $A: X \rightarrow Y, \quad A f:=f^{\prime}$ lineáris operátor folytonos!
 
 **Megoldás:**
+related: [[TovFejAnal]]

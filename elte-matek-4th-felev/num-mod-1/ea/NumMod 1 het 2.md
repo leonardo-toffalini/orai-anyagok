@@ -211,3 +211,6 @@ $$
 \operatorname{cond}(A) = 201 \cdot 2.01 = 404.01 \gg 1
 $$
 $\implies$ rosszul kondicionalt volt az egyenlet rendstzer!
+
+
+related: [[NumMod 1]]

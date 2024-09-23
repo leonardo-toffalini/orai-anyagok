@@ -177,3 +177,4 @@ $$
 $$
 \det(A - \lambda I) = \lambda ^{2} + 1\neq 0 \quad \forall \lambda \in \mathbb{R} \implies \sigma(A) = \emptyset
 $$
+related: [[TovFejAnal]]

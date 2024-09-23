@@ -220,3 +220,4 @@ Masreszt, $\exists f \in L^{1}$ amire $f = f_{n_{1}} + \sum_{k=1}^{\infty} (f_{n
 $$
 S_{K} = f_{n_{1}} + \sum_{k=1}^{K}(f_{n_{k+1}} - f_{n_{k}}) = f_{n_{K}} \to f \; \text{ m.m.}, \quad K \to \infty
 $$
+related: [[TovFejAnal]]

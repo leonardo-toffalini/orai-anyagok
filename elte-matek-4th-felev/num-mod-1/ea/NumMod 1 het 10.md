@@ -161,3 +161,5 @@ $f''$ $m$ darab függvény értékének az átlaga és $S \in (\min f'', \max f'
 
 
 
+
+related: [[NumMod 1]]

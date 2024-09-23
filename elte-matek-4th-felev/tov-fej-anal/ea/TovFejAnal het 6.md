@@ -165,3 +165,5 @@ Legyen $X = \ell ^{2}$ legyen ezen ertelmezve a jobb eltolas $J(x_{1}, x_{2}, \d
 $J$ nem szurjektiv $\implies 0 \in \sigma(J)$ masreszt $0$ nem lehet sajaterteke, mert csak a $0$-t viszi onmagaba.
 
 
+
+related: [[TovFejAnal]]

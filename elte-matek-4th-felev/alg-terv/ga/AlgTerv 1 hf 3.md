@@ -53,3 +53,4 @@ def exchange(n, coins):
 ```
 
 
+related: [[AlgTerv 1]]

@@ -93,3 +93,6 @@ Nem. Ellenpélda:
 
 Legyen $H_{1} := \{ 0, 1 \}$, továbbá legyen $H_{2} := \left\{  0, \frac{1}{2}, 1  \right\}$. Tehát legyen $H_{n}$ a $H_{n-1}$ halmaz pontjainak páronkénti felezőpontjai.
 Ekkor látható, hogy $H_{\infty} := \lim_{ n \to \infty }H_{n}$ halmaz minden két $x, y \in H_{\infty}$ pontjára igaz, hogy $\frac{x+y}{2} \in H_{\infty}$ , de például $x = 0, y = 1$ pontokra $0 \cdot x + \frac{1}{3} \cdot y \not\in H_{\infty}$, tehát $H_{\infty}$ nem konvex.
+
+
+related: [[DL-CO]]

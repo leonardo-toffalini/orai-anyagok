@@ -139,3 +139,5 @@ $\lvert f + g \rvert \leq \lvert f \rvert + \lvert g \rvert$ es az integral mono
 Tehat a fenti Riesz-Fischer-tetel azt jelenti, hogy $(C_{2}, \; \| \cdot \|_{1})$ Banach-ter! Mivel a Riesz-Fischer tetel az elobb bevezetett $\| \cdot \|_{1}$ normavala a kovetkezokeppen fogalmazhato meg:
 Ha $\| f_{n} - f_{m} \|_{1} \to 0$ ha $n, m \to \infty$ akkor $\| f_{n} \|_{1} \to f$ (vagy $f_{n} \xrightarrow{\| \cdot \|_{1}} f$)
 
+
+related: [[TovFejAnal]]

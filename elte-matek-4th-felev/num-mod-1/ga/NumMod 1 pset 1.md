@@ -240,3 +240,7 @@ H_n = \left(\matrix{1 & 1/2 & 1/3 & \dots & 1/n \cr 1/2 & 1/3 & 1/4 & \dots & 1/
 $$
 
 mátrixok megkonstruálására, majd számíttassuk is ki ezek 1-es, illetve 2-es norma szerinti kondíciószámát egy megfelelő parancs segítségével.
+
+
+
+related: [[NumMod 1]]

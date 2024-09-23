@@ -152,3 +152,5 @@ Tehat $\frac{\log c_{k}}{\log \lvert e_{k-1} \rvert } \to 0 \implies$ a jobb old
 *Megjegyzes:* Az utobbi feltetel azt jeletnti, hogy a konvergencia csak akkor kovetkezik, ha $x_{0}$ eleg kozel van $x^{*}$-hoz. Ugyanakkor $\overline c < + \infty$, es nem kell teljesulnie, hogy $\overline c < 1$.
 
 
+
+related: [[NumMod 1]]

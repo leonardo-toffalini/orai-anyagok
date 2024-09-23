@@ -151,3 +151,6 @@ Give a $2$-approximation for the Max Cut problem in undirected graphs, where the
 **Megoldás:** 
  Induljunk ki eg ytetszőleges $C \subseteq E$ élhalmazból. Egy általános lépésben mohón vegyünk hozzá egy csúcsot $C$-hez vagy hagyjunk el egyet $C$-ből úgy, hogy a vágás mérete nőjön. Ha már nem tudunk így csúcsot hozzávenni vagy elhagyni $C$-ből, akkor áljon le az algoritmus és térjünk vissza a jelenlegi $C$ halmazzal.
  Ez az algoritmus $2$-közelítő, mivel $\forall v \in V$-re legalább $\frac{\operatorname d(v)}{2}$ él része $C$-nek, különben ha $v$-nek kevesebb mint $\frac{\operatorname d(v)}{2}$ éle lenne $C$ része, akkor az algoritmus belevenné $v$-t $C$-be, mert növelné a vágás méretét.
+
+ 
+related: [[DL-CO]]

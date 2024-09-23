@@ -225,3 +225,5 @@ Vegyuk eszre: $r_{i} \perp r_{i+1}$, mert addig megyunk $p_{i}$ iranyban ameddig
 
 
 
+
+related: [[NumMod 1]]

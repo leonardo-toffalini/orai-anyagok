@@ -102,3 +102,6 @@ például:
 4. Leghosszabb út
 5. $k$-nál hosszabb út
 6. hátizsák feladat
+
+
+related: [[AlgTerv 1]]

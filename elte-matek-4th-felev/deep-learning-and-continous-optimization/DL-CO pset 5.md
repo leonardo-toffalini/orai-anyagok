@@ -81,3 +81,6 @@ $$
 \end{align}
 $$
 Ekkor pontosan akkor vonjuk le $s_{i}$ pénzt az összegből, ha termelünk az $i$-edik termékből.
+
+
+related: [[DL-CO]]

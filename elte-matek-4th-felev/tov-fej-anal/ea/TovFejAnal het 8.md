@@ -202,3 +202,5 @@ $$
 Legyen $(f_{n})_{n \in \mathbb{N}} \subset C_{2}$  integralhato fuggvenyek sorozata m.m. monoton novo, es $\int  f_{n} \, dx \leq A \quad \forall n \in \mathbb{N}$. Ekkor $\exists f \in C_{2}$ ugy, hogy $f_{n} \to f$ m.m. es $\int  f_{n} \, dx \to \int  f \, dx$
 
 *Bizonyitas:* $\emptyset$ biz.
+
+related: [[TovFejAnal]]

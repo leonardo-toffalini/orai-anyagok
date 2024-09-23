@@ -158,3 +158,5 @@ $t(f) := h \cdot \frac{f(a) + f(b)}{2}$
 
 
 
+
+related: [[NumMod 1]]

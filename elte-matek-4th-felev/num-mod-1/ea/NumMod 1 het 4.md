@@ -146,3 +146,5 @@ $$
 Megfigyeles: $\omega = 1$-re visszakapjuk a Gauss-Seidel-iteraciot.
 
 
+
+related: [[NumMod 1]]

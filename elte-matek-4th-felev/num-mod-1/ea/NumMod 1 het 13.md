@@ -188,3 +188,5 @@ A fenti egy lináris algebrai egyenletrendszer, amire már tanultunk megoldási 
 
 
 
+
+related: [[NumMod 1]]

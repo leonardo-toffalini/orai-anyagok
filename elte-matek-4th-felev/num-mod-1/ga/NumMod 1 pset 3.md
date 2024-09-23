@@ -265,3 +265,6 @@ egyenlet megoldására. Addig iteráljunk, míg két szomszédos iterált $\| \c
 import numpy as np
 
 ```
+
+
+related: [[NumMod 1]]

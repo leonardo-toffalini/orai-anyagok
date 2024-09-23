@@ -217,3 +217,5 @@ $$
 \| x-z \| ^{2} \geq \| x-y \| ^{2}
 $$
 
+
+related: [[TovFejAnal]]

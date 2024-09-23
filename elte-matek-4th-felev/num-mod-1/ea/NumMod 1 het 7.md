@@ -210,3 +210,5 @@ esetén másodrendű a konvergencia.
 
 
 
+
+related: [[NumMod 1]]

@@ -136,3 +136,7 @@ K kompakt $\implies$ $\exists (x_{n_{j}})$ reszsorozat, $x_{n_{j}} \to x \in K$
 $\rho_{X}(x_{n_{j}}, y_{n_{j}}) \to 0 \implies y_{n_{j}} \to x \in K$
 $f$ folytonos $K$-n $\implies$ $f(x_{n_{j}}) \to f(x)$ es $f(y_{n_{j}}) \to f(x)$ ellentmondas, mert $\rho_{Y}(f(x), f(x)) = 0$.
 
+
+
+
+related: [[TovFejAnal]]

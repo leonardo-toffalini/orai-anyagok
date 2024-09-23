@@ -11,3 +11,4 @@
 - [ ] Abszolút folytonos és szinguláris mértékek, Radon-Nikodym tétel.
 - [x] Mértékterek szorzata. Fubini-tétel.
 - [ ] $L^p$-terek és teljességük, konvergencia $L^p$-ben, majdnem mindenütt való konvergencia.
+related: [[TovFejAnal]]

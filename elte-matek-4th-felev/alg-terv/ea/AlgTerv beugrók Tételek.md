@@ -84,3 +84,6 @@ A sikertelen keresés, illetve a beszúrás várható lépésszáma a vödrös (
 *Írja le a Hopcroft-Karp-algoritmus lépésszámáról tanult tételt!*
 
 ***Tétel:*** Az algoritmus $2 \sqrt{ n' }$ fázis után véget ér, ahol $n' = \nu(G) \leq \min\{ \lvert S \rvert, \lvert T \rvert \} \leq \frac{n}{2}$. Mivel egy fázis végrehajtható $O(m)$ lépésben így az algoritmus lépésszáma $O(m \sqrt{ n })$.
+
+
+related: [[AlgTerv 1]]

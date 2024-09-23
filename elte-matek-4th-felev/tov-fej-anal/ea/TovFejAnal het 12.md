@@ -221,3 +221,4 @@ $$
 
 Radon-Nikodýn tetelhez megjegyzes: A $\nu_{f}$ mertek $\iff$ $f \geq 0$
 masreszt $\nu_{f}$ korlatos $\iff$ $f$ korlatos
+related: [[TovFejAnal]]

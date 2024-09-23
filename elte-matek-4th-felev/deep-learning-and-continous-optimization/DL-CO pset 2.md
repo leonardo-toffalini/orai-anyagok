@@ -113,3 +113,6 @@ Erről be kell még látni hogy konkáv, tehát $g(\lambda)'' \leq 0$.
 
 
 Az optimum hely $\lambda = 0$ és az optimum érték $\inf_{x} \{ x^{2} + 2x + 1 \} = 0$.
+
+
+related: [[DL-CO]]

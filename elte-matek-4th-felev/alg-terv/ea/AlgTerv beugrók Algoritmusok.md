@@ -368,3 +368,5 @@ def acikl_dijkstra(G):
 Topologikus sorrend alapján iterálunk
 	Ha már vizsgált akkor megpróbáljuk frissíteni
 	Ha még nem vizsgált akkor inicializáljuk
+
+related: [[AlgTerv 1]]

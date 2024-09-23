@@ -1,3 +1,4 @@
+#MOC 
 Kontakt:
 - Oktató: Bérczi Kristóf
 - weboldal: https://berkri.web.elte.hu

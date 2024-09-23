@@ -15,3 +15,5 @@ Segíts neki eldönteni, hogy teljesülhet-e a vágya, és megkaphatje-e a $Q$ p
 
 ***Megoldás:***
 
+
+related: [[AlgTerv 1]]

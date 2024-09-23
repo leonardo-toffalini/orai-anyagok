@@ -148,3 +148,6 @@ f(y) - f(x) -\langle\nabla f(x), y-x\rangle \geq 0
 $$
 Ezzel megkaptuk a belátandó állítást, mivel a baloldalon pont a Bergman divergencia szerepel.
 
+
+
+related: [[DL-CO]]

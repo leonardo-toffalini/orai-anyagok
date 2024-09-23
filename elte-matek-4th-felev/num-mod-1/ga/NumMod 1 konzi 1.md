@@ -73,3 +73,5 @@ $0 < m \leq M$
 
 
 
+
+related: [[NumMod 1]]

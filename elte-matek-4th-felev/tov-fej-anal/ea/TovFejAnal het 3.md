@@ -224,3 +224,7 @@ iii) $\implies$ $x - \sum_{j = 1}^{\infty} (x, e_{j}) \cdot e_{j} = 0$
 
 #### **Def**.:
 $(e_{k}) \subset H$ ortonormalt sorozat *teljes ortonormalt sorozat (TONS)* vagy **ortonormalt bazis (ONB)**, ha a fenti tetel harom allitasa kozul az egyik teljesul.
+
+
+
+related: [[TovFejAnal]]

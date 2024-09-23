@@ -80,3 +80,5 @@ $$
 
 
 
+
+related: [[NumMod 1]]

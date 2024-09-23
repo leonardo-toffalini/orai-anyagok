@@ -236,3 +236,6 @@ def gauss_elim(A, b):
 	n = A.shape[0]
 	
 ```
+
+
+related: [[NumMod 1]]

@@ -236,3 +236,5 @@ Newton-iteráció segítségével keressük ennek a $(\frac12, \frac12)$ pont k�
 ```python
 ```
 
+
+related: [[NumMod 1]]

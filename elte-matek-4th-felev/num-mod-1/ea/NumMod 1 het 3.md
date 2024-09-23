@@ -193,3 +193,6 @@ $$
 
 
 ***Kov***.: A Gauss-eliminacio pontosan akkor hajthato vegre, ha $A$ osszes bal felso sarokdeterminansa nem $0$.
+
+
+related: [[NumMod 1]]

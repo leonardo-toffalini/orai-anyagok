@@ -209,15 +209,4 @@ $$
 tehát a centrális differenciahányados valóban másodrendű közelítés.
 
 
-
-
-
-
-
-
-
-
-
-
- 
-
+related: [[NumMod 1]]

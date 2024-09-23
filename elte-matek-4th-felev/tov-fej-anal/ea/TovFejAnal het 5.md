@@ -253,3 +253,5 @@ Biz.: $\varphi(\varphi(x) \cdot e - \varphi(e) \cdot x) \stackrel{lin}{=} \varph
 
 
 
+
+related: [[TovFejAnal]]

@@ -104,3 +104,5 @@ $$
 \end{align}
 $$
 
+
+related: [[TovFejAnal]]
