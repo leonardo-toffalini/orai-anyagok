@@ -1,1 +1,1 @@
-# orai-anyagok
+# Elte Matematikca (Bsc.) órai jegyzetek
