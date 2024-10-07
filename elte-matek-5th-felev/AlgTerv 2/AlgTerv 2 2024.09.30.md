@@ -7,7 +7,7 @@ Legyen $f$ egy $n$ valtozos $\leq d$-ed foku polinom, van egy orakulum megadva a
 
 Feladat: Dontsuk el, hogy $f \stackrel{?}{\equiv} 0$
 
-**Scwart-Zipper-lemma:** Valasszunk $\alpha_{1}, \alpha_{2}, \dots, \alpha_{n} \in \{ 1, 2, 3, \dots, N \}$ ertekeket egyenletesen fuggetlenul.
+**Scwartz-Zipper-lemma:** Valasszunk $\alpha_{1}, \alpha_{2}, \dots, \alpha_{n} \in \{ 1, 2, 3, \dots, N \}$ ertekeket egyenletesen fuggetlenul.
 Ha $f \not\equiv 0$, akkor 
 $$
 \mathbb{P}(f(\alpha_{1}, \alpha_{2}, \dots, \alpha_{n}) = 0) \leq \frac{d}{N}
